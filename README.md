@@ -8,4 +8,4 @@ conectando con procesador de texto Google
 > * Encabezado y Pie de página,
 > * Tabla de contenido
 ---
-Adjunto link: [[VISTA]( https://docs.google.com/document/d/1g6lKesxfmtJxFNTv2uxb8jDMXOUghFk9fODUPhqxIDA/edit?usp=sharing)
+Adjunto link: [[VISTA]( https://docs.google.com/document/d/1g6lKesxfmtJxFNTv2uxb8jDMXOUghFk9fODUPhqxIDA/edit?usp=sharing)]
